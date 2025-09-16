@@ -1,6 +1,6 @@
 # Convolutional Deep Neural Network for Image Classification
 
-## AIM
+## AIM:
 
 To Develop a convolutional deep neural network for image classification and to verify the response for new images.
 
@@ -15,7 +15,7 @@ To Develop a convolutional deep neural network for image classification and to v
 <img width="1508" height="614" alt="image" src="https://github.com/user-attachments/assets/4af65bf4-fc5b-48e4-96cc-e06d99827c29" />
 
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1: Problem Statement
 Define the objective of classifying handwritten digits (0-9) using a Convolutional Neural Network (CNN).
 
@@ -84,7 +84,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ```
 
-## OUTPUT
+## OUTPUT:
 ### Training Loss per Epoch
 
 <img width="898" height="202" alt="image" src="https://github.com/user-attachments/assets/5328d57d-5130-4b63-9710-dbf7f27a867e" />
@@ -105,9 +105,11 @@ def train_model(model, train_loader, num_epochs=3):
 
 
 ### New Sample Data Prediction
+<img width="701" height="706" alt="image" src="https://github.com/user-attachments/assets/2f6761ce-a0c3-4c08-b9f9-6ed2d16aaafb" />
 
 
 
 
-## RESULT
+
+## RESULT:
 Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
